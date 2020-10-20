@@ -10,8 +10,8 @@ h2{font-size: 14px; line-height: 18px}
 .title_bg{float: left; width:100%; height: auto; margin-top: 0%; background: url("../images/bg_01.jpg") no-repeat; background-size: 100%; padding-bottom: 0.8%;}
 .btn_top{width:49px;height: 85px; z-index: 9999; position: fixed; bottom: 20px; right: 26px}
 .btn_video{float: right; width: 13%; position: relative; margin-top: 20%; right:23.5%}
-.btn_video img{width: 100%; display: block}
-.banner_bg{float: left; width:80%; height: auto; background: url("../images/bg_02.jpg") no-repeat; background-position: top; background-size: 100%; padding: 0% 10%}
+.btn_video img{width: 200%; display: block}
+.banner_bg{margin-top:-13%; float:left; width:80%; height: auto; background: url("../images/bg_02.jpg") no-repeat; background-position: top; background-size: 100%; padding: 0% 10%}
 .banner{float: left; width: 96%; border: 1px solid #FFFFFF; background-color:rgba(0, 0, 0, 0.4); padding: 2% ;margin-top: 15%;}
 .banner_bgin{float: left; background-color: #252525; width:96%; padding: 2%;}
 .banner_bgins{display: none}
@@ -24,7 +24,7 @@ h2{font-size: 14px; line-height: 18px}
 .banner_bgin{display: none}
 .banner_bgins{float: left; display: block; background-color: #252525; width:96%; padding: 2%;}
 .banner li{width: 100%; padding: 0% 1%;}
-.btn_video{right:19.5%}
+.btn_video{right:25.5%}
 }
 @media (max-width: 500px){.btn_top{width:10%; height:auto; right:2%; bottom:2%;}
 /*.banner_bg{background: url("../images/bg_m_02.jpg") no-repeat; background-size: 100%; width: 96%; padding: 0% 2%;}*/
